@@ -1,20 +1,31 @@
 {
-    "projects": [
+    "companies": [
       {
         "id": 1,
-        "title": "Module ESG Project",
-        "description": "Module 2 project - Integrate a React app with backend."
-      },
-      {
-        "id": 2,
-        "title": "Module 3 Project",
-        "description": "Create a full-stack application using MERN stack."
+        "name": "Apple",
+        "location": {
+            "region": "America",
+            "country": "United States",
+            "city": "Cupertino",
+            "address": "1 Apple Park Way",
+            "postcode": "95014"
+        },
+        "logo" : "images/apple.jpg",
+        "description": "Apple Inc. is a global technology company known for its iconic products like the iPhone, iPad, Mac, and software platforms like iOS and macOS. Renowned for innovation and sleek design, Apple is a leader in consumer electronics and digital services.",
+        "industry": "Electronic Technology",
+        "esg": {
+            "esg_index" : "41.6",
+            "e_index" : "42",
+            "s_index" : "11",
+            "g_index" : "72"
+        },
+        "marketCap" : "2950000000000"
       }
     ],
     "tasks": [
       {
         "id": 1,
-        "projectId": 1,
+        "companyId": 1,
         "title": "Task 1",
         "description": "Use Vite to create a basic React app"
       },
