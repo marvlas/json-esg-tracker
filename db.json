@@ -99,6 +99,106 @@
             "g_index" : "54"
         },
         "marketCap" : "437000000000"
+      },
+      {
+        "id": 6,
+        "name": "ASML Holdings N.V.",
+        "location": {
+            "region": "Europe",
+            "country": "The Netherlands",
+            "city": "Veldhoven",
+            "address": "De Run 6501",
+            "postcode": "5504 DR"
+        },
+        "logo" : "images/asml.jpg",
+        "description": "ASML Holdings N.V. is a Dutch multinational company and a key player in the semiconductor industry. Specializing in photolithography equipment, ASML develops and manufactures cutting-edge machines critical for semiconductor manufacturing, enabling the production of smaller, more powerful microchips used in a wide range of electronic devices.",
+        "industry": "Electronic Technology",
+        "esg": {
+            "e_index" : "85",
+            "s_index" : "59",
+            "g_index" : "68"
+        },
+        "marketCap" : "52300000"
+      },
+      {
+        "id": 7,
+        "name": "Check Point Software Technologies",
+        "location": {
+            "region": "Middle East",
+            "country": "Israel",
+            "city": " Tel Aviv-Yafo",
+            "address": "Shlomo Kaplan St 5",
+            "postcode": "6789159"
+        },
+        "logo" : "images/checkpoint.jpg",
+        "description": "Check Point Software Technologies is a leading cybersecurity company based in Israel, specializing in advanced solutions like firewalls and intrusion prevention systems to protect organizations from cyber threats.",
+        "industry": "Electronic Technology",
+        "esg": {
+            "e_index" : "45",
+            "s_index" : "62",
+            "g_index" : "81"
+        },
+        "marketCap" : "149000000"
+      },
+      {
+        "id": 8,
+        "name": "Hermes International SCA",
+        "location": {
+            "region": "Europe",
+            "country": "France",
+            "city": "Paris",
+            "address": "Rue du Faubourg Saint-Honore 24",
+            "postcode": "75008"
+        },
+        "logo" : "images/hermes.jpg",
+        "description": "Hermès International SCA is a renowned French luxury goods manufacturer. Celebrated for its exquisite craftsmanship and iconic products such as Birkin and Kelly handbags, Hermès is a global symbol of high-end fashion and luxury lifestyle.",
+        "industry": "Apparel/Footwear",
+        "esg": {
+            "e_index" : "72",
+            "s_index" : "56",
+            "g_index" : "78"
+        },
+        "marketCap" : "523000000"
+      },
+      {
+        "id": 9,
+        "name": "Kone Oyj",
+        "location": {
+            "region": "Europe",
+            "country": "Finland",
+            "city": "Espoo",
+            "address": "Keilasatama 3",
+            "postcode": "02150"
+        },
+        "logo" : "images/kone.jpg",
+        "description": "Kone Oyj is a Finnish multinational company specializing in elevator and escalator manufacturing. As a global leader in the industry, Kone is recognized for its innovative solutions and sustainable urban mobility offerings, contributing to the efficiency and safety of buildings worldwide.",
+        "industry": "Producer Manufacturing",
+        "esg": {
+            "e_index" : "62",
+            "s_index" : "61",
+            "g_index" : "96"
+        },
+        "marketCap" : "1250000000"
+      },
+      {
+        "id": 10,
+        "name": "Shionogi & Co.",
+        "location": {
+            "region": "Asia",
+            "country": "Japan",
+            "city": "Chuo-ku, Osaka",
+            "address": "1-8, Doshomachi 3-chome",
+            "postcode": "541-0045"
+        },
+        "logo" : "images/shionogi.jpg",
+        "description": "Shionogi & Co., Ltd. is a prominent Japanese pharmaceutical firm renowned for its commitment to research and development in the healthcare sector, focusing on the creation of cutting-edge drugs to address global health challenges.",
+        "industry": "Health Technology",
+        "esg": {
+            "e_index" : "73",
+            "s_index" : "43",
+            "g_index" : "83"
+        },
+        "marketCap" : "77200000000"
       }
     ]
   }
