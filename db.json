@@ -10,7 +10,7 @@
             "address": "1 Apple Park Way",
             "postcode": "95014"
         },
-        "logo" : "images/apple.jpg",
+        "logo" : "https://www.svgrepo.com/show/69341/apple-logo.svg",
         "description": "Apple Inc. is a global technology company known for its iconic products like the iPhone, iPad, Mac, and software platforms like iOS and macOS. Renowned for innovation and sleek design, Apple is a leader in consumer electronics and digital services.",
         "industry": "Electronic Technology",
         "esg": {
@@ -30,7 +30,7 @@
             "address": "1 Microsoft Way",
             "postcode": "98052"
         },
-        "logo" : "images/microsoft.jpg",
+        "logo" : "https://www.logo.wine/a/logo/Microsoft/Microsoft-Logo.wine.svg",
         "description": "Microsoft, founded in 1975, is a global tech giant known for Windows, Office, Azure, Xbox, and Surface devices. It leads in software, hardware, and cloud services, with a strong emphasis on AI and innovation.",
         "industry": "Electronic Technology",
         "esg": {
@@ -50,7 +50,7 @@
             "address": "410 Terry Ave N",
             "postcode": "98109"
         },
-        "logo" : "images/amazon.jpg",
+        "logo" : "https://www.logo.wine/a/logo/Amazon_(company)/Amazon_(company)-Logo.wine.svg",
         "description": "Amazon, founded in 1994 by Jeff Bezos, is a global e-commerce and technology giant. It's renowned for its diverse product offerings, online retail dominance, and ventures into cloud computing and streaming services through Amazon Web Services and Prime Video.",
         "industry": "Ecommerce",
         "esg": {
@@ -70,7 +70,7 @@
             "address": "1 Tesla Road ",
             "postcode": "78725"
         },
-        "logo" : "images/tesla.jpg",
+        "logo" : "https://www.logo.wine/a/logo/Tesla%2C_Inc./Tesla%2C_Inc.-Logo.wine.svg",
         "description": "Tesla, founded by Elon Musk in 2003, is a leading electric vehicle and clean energy company based in California. Known for its innovative electric cars and advancements in battery technology, Tesla aims to accelerate the global transition to sustainable energy.",
         "industry": "Automotive",
         "esg": {
@@ -90,7 +90,7 @@
             "address": "270 Park Avenue",
             "postcode": "10017"
         },
-        "logo" : "images/jp_morgan.jpg",
+        "logo" : "https://www.logo.wine/a/logo/JPMorgan_Chase/JPMorgan_Chase-Logo.wine.svg",
         "description": "JPMorgan Chase & Co., or JPMorgan, is a prominent American multinational bank based in New York City. Known for its extensive financial services, it offers banking, investment, and asset management solutions globally.",
         "industry": "Financial Services",
         "esg": {
@@ -110,7 +110,7 @@
             "address": "De Run 6501",
             "postcode": "5504 DR"
         },
-        "logo" : "images/asml.jpg",
+        "logo" : "https://upload.wikimedia.org/wikipedia/commons/6/6c/ASML_Holding_N.V._logo.svg",
         "description": "ASML Holdings N.V. is a Dutch multinational company and a key player in the semiconductor industry. Specializing in photolithography equipment, ASML develops and manufactures cutting-edge machines critical for semiconductor manufacturing, enabling the production of smaller, more powerful microchips used in a wide range of electronic devices.",
         "industry": "Electronic Technology",
         "esg": {
@@ -130,7 +130,7 @@
             "address": "Shlomo Kaplan St 5",
             "postcode": "6789159"
         },
-        "logo" : "images/checkpoint.jpg",
+        "logo" : "https://upload.wikimedia.org/wikipedia/commons/f/f3/Check_Point_logo_2022.svg",
         "description": "Check Point Software Technologies is a leading cybersecurity company based in Israel, specializing in advanced solutions like firewalls and intrusion prevention systems to protect organizations from cyber threats.",
         "industry": "Electronic Technology",
         "esg": {
@@ -150,7 +150,7 @@
             "address": "Rue du Faubourg Saint-Honore 24",
             "postcode": "75008"
         },
-        "logo" : "images/hermes.jpg",
+        "logo" : "https://www.logo.wine/a/logo/Herm%C3%A8s/Herm%C3%A8s-Logo.wine.svg",
         "description": "Hermès International SCA is a renowned French luxury goods manufacturer. Celebrated for its exquisite craftsmanship and iconic products such as Birkin and Kelly handbags, Hermès is a global symbol of high-end fashion and luxury lifestyle.",
         "industry": "Apparel/Footwear",
         "esg": {
@@ -170,7 +170,7 @@
             "address": "Keilasatama 3",
             "postcode": "02150"
         },
-        "logo" : "images/kone.jpg",
+        "logo" : "https://upload.wikimedia.org/wikipedia/commons/3/37/KONE.svg",
         "description": "Kone Oyj is a Finnish multinational company specializing in elevator and escalator manufacturing. As a global leader in the industry, Kone is recognized for its innovative solutions and sustainable urban mobility offerings, contributing to the efficiency and safety of buildings worldwide.",
         "industry": "Producer Manufacturing",
         "esg": {
@@ -190,7 +190,7 @@
             "address": "1-8, Doshomachi 3-chome",
             "postcode": "541-0045"
         },
-        "logo" : "images/shionogi.jpg",
+        "logo" : "https://upload.wikimedia.org/wikipedia/commons/7/73/Shionogi_logo.svg",
         "description": "Shionogi & Co., Ltd. is a prominent Japanese pharmaceutical firm renowned for its commitment to research and development in the healthcare sector, focusing on the creation of cutting-edge drugs to address global health challenges.",
         "industry": "Health Technology",
         "esg": {
