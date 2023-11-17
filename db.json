@@ -14,32 +14,11 @@
         "description": "Apple Inc. is a global technology company known for its iconic products like the iPhone, iPad, Mac, and software platforms like iOS and macOS. Renowned for innovation and sleek design, Apple is a leader in consumer electronics and digital services.",
         "industry": "Electronic Technology",
         "esg": {
-            "esg_index" : "41.6",
             "e_index" : "42",
             "s_index" : "11",
             "g_index" : "72"
         },
         "marketCap" : "2950000000000"
-      }
-    ],
-    "tasks": [
-      {
-        "id": 1,
-        "companyId": 1,
-        "title": "Task 1",
-        "description": "Use Vite to create a basic React app"
-      },
-      {
-        "id": 2,
-        "projectId": 1,
-        "title": "Task 2",
-        "description": "Install React Router and setup routes"
-      },
-      {
-        "id": 3,
-        "projectId": 2,
-        "title": "Task 3",
-        "description": "Create a form with 5 input fields"
       }
     ]
   }
