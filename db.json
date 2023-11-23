@@ -10,7 +10,9 @@
         "country": "United States",
         "city": "Cupertino",
         "address": "1 Apple Park Way",
-        "postcode": "95014"
+        "postcode": "95014",
+        "latitude" : 37.332280,
+        "longitude": -122.010980
       },
       "industry": "Electronic Technology",
       "esg": {
@@ -28,7 +30,9 @@
         "country": "United States",
         "city": "Redmond",
         "address": "1 Microsoft Way",
-        "postcode": "98052"
+        "postcode": "98052",
+        "latitude" : 47.641670,
+        "longitude": -122.125650
       },
       "logo": "https://www.logo.wine/a/logo/Microsoft/Microsoft-Logo.wine.svg",
       "description": "Microsoft, founded in 1975, is a global tech giant known for Windows, Office, Azure, Xbox, and Surface devices. It leads in software, hardware, and cloud services, with a strong emphasis on AI and innovation.",
@@ -48,7 +52,9 @@
         "country": "United States",
         "city": "Seattle",
         "address": "410 Terry Ave N",
-        "postcode": "98109"
+        "postcode": "98109",
+        "latitude" : 47.622380,
+        "longitude": -122.336820
       },
       "logo": "https://www.logo.wine/a/logo/Amazon_(company)/Amazon_(company)-Logo.wine.svg",
       "description": "Amazon, founded in 1994 by Jeff Bezos, is a global e-commerce and technology giant. It's renowned for its diverse product offerings, online retail dominance, and ventures into cloud computing and streaming services through Amazon Web Services and Prime Video.",
@@ -67,8 +73,10 @@
         "region": "North America",
         "country": "United States",
         "city": "Austin",
-        "address": "1 Tesla Road ",
-        "postcode": "78725"
+        "address": "1 Tesla Road",
+        "postcode": "78725", 
+        "latitude" : 30.221260,
+        "longitude": -97.619930
       },
       "logo": "https://www.logo.wine/a/logo/Tesla%2C_Inc./Tesla%2C_Inc.-Logo.wine.svg",
       "description": "Tesla, founded by Elon Musk in 2003, is a leading electric vehicle and clean energy company based in California. Known for its innovative electric cars and advancements in battery technology, Tesla aims to accelerate the global transition to sustainable energy.",
@@ -88,7 +96,9 @@
         "country": "United States",
         "city": "New York",
         "address": "270 Park Avenue",
-        "postcode": "10017"
+        "postcode": "10017",
+        "latitude" : 40.7558452,
+        "longitude": -73.975615
       },
       "logo": "https://www.logo.wine/a/logo/JPMorgan_Chase/JPMorgan_Chase-Logo.wine.svg",
       "description": "JPMorgan Chase & Co., or JPMorgan, is a prominent American multinational bank based in New York City. Known for its extensive financial services, it offers banking, investment, and asset management solutions globally.",
@@ -108,7 +118,9 @@
         "country": "The Netherlands",
         "city": "Veldhoven",
         "address": "De Run 6501",
-        "postcode": "5504 DR"
+        "postcode": "5504 DR",
+        "latitude" : 51.4044463,
+        "longitude": 5.4170159
       },
       "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/ASML_Holding_N.V._logo.svg",
       "description": "ASML Holdings N.V. is a Dutch multinational company and a key player in the semiconductor industry. Specializing in photolithography equipment, ASML develops and manufactures cutting-edge machines critical for semiconductor manufacturing, enabling the production of smaller, more powerful microchips used in a wide range of electronic devices.",
@@ -128,7 +140,9 @@
         "country": "Israel",
         "city": " Tel Aviv-Yafo",
         "address": "Shlomo Kaplan St 5",
-        "postcode": "6789159"
+        "postcode": "6789159",
+        "latitude" : 32.0694253,
+        "longitude": 34.7952639
       },
       "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Check_Point_logo_2022.svg",
       "description": "Check Point Software Technologies is a leading cybersecurity company based in Israel, specializing in advanced solutions like firewalls and intrusion prevention systems to protect organizations from cyber threats.",
@@ -148,7 +162,9 @@
         "country": "France",
         "city": "Paris",
         "address": "Rue du Faubourg Saint-Honore 24",
-        "postcode": "75008"
+        "postcode": "75008",
+        "latitude" : 48.8688713,
+        "longitude": 2.3217186
       },
       "logo": "https://www.logo.wine/a/logo/Herm%C3%A8s/Herm%C3%A8s-Logo.wine.svg",
       "description": "Hermès International SCA is a renowned French luxury goods manufacturer. Celebrated for its exquisite craftsmanship and iconic products such as Birkin and Kelly handbags, Hermès is a global symbol of high-end fashion and luxury lifestyle.",
@@ -168,7 +184,9 @@
         "country": "Finland",
         "city": "Espoo",
         "address": "Keilasatama 3",
-        "postcode": "02150"
+        "postcode": "02150",
+        "latitude" : 60.1720744,
+        "longitude": 24.8287469
       },
       "logo": "https://upload.wikimedia.org/wikipedia/commons/3/37/KONE.svg",
       "description": "Kone Oyj is a Finnish multinational company specializing in elevator and escalator manufacturing. As a global leader in the industry, Kone is recognized for its innovative solutions and sustainable urban mobility offerings, contributing to the efficiency and safety of buildings worldwide.",
@@ -188,7 +206,9 @@
         "country": "Japan",
         "city": "Chuo-ku, Osaka",
         "address": "1-8, Doshomachi 3-chome",
-        "postcode": "541-0045"
+        "postcode": "541-0045",
+        "latitude" : 34.6885,
+        "longitude": 135.5046
       },
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/73/Shionogi_logo.svg",
       "description": "Shionogi & Co., Ltd. is a prominent Japanese pharmaceutical firm renowned for its commitment to research and development in the healthcare sector, focusing on the creation of cutting-edge drugs to address global health challenges.",
