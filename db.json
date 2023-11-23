@@ -219,6 +219,116 @@
         "g_index": 83
       },
       "marketCap": 77200000000
+    },
+    {
+      "id": 11,
+      "name": "Walmart.",
+      "location": {
+        "region": "North America",
+        "country": "United States",
+        "city": "Bentonville",
+        "address": "702 SW 8th St",
+        "postcode": "72716,",
+        "latitude" : 36.3655,
+        "longitude": -94.2175
+      },
+      "logo": "https://www.logo.wine/a/logo/Walmart/Walmart-Logo.wine.svg",
+      "description": "Walmart, founded in 1962 by Sam Walton, is a global retail giant recognized for its affordable prices and extensive range of products, including groceries, electronics, and apparel. With a vast network of discount stores and supercenters, Walmart has become a dominant force in the retail industry, shaping the global market with its commitment to affordability and diverse offerings.",
+      "industry": "Retail",
+      "esg": {
+        "e_index": 81,
+        "s_index": 58,
+        "g_index": 32
+      },
+      "marketCap": 416300000000
+    },
+    {
+      "id": 12,
+      "name": "Neste Corporation",
+      "location": {
+        "region": "Europe",
+        "country": "Finland",
+        "city": "Espoo",
+        "address": "Keilaranta 21",
+        "postcode": "00095",
+        "latitude" : 60.1793,
+        "longitude": 24.8377
+      },
+      "logo": "https://cdn.worldvectorlogo.com/logos/neste.svg",
+      "description": "Neste is a Finnish energy company known for leading in renewable fuels and sustainable solutions, with a focus on transforming waste into high-quality renewable products to support a more sustainable and low-carbon future.",
+      "industry": "Oil Refining/Marketing",
+      "esg": {
+        "e_index": 40,
+        "s_index": 25,
+        "g_index": 67
+      },
+      "marketCap": 26630000000
+    },
+    {
+      "id": 13,
+      "name": "Canadian Natural Resources Limited.",
+      "location": {
+        "region": "North America",
+        "country": "Canada",
+        "city": "Calgary",
+        "address": "2100, 855 2 Street S.W.",
+        "postcode": " T2P 4J8",
+        "latitude" : 51.0452,
+        "longitude": -114.0694370
+      },
+      "logo": "https://cdn.worldvectorlogo.com/logos/canadian-natural.svg",
+      "description": "Canadian Natural Resources Limited is a prominent Canadian energy company engaged in the exploration, development, and production of oil and natural gas. Known for its significant role in the energy sector, the company prioritizes responsible resource development and operates across North America.",
+      "industry": "Oil Refining/Marketing",
+      "esg": {
+        "e_index": 51,
+        "s_index": 42,
+        "g_index": 70
+      },
+      "marketCap": 96710000000
+    },
+    {
+      "id": 14,
+      "name": "Logitech International S.A.",
+      "location": {
+        "region": "Europe",
+        "country": "Switzerland",
+        "city": "Apples",
+        "address": "Route De Pampigny 20",
+        "postcode": "1143",
+        "latitude" : 46.5546,
+        "longitude": 6.4325
+      },
+      "logo": "https://cdn.worldvectorlogo.com/logos/logitech-2-1.svg",
+      "description": "Logitech is a Swiss tech company renowned for its computer peripherals and accessories, including mice, keyboards, and audio devices. Established in 1981, it's a global leader known for user-friendly and high-quality hardware.",
+      "industry": "Electronic Technology",
+      "esg": {
+        "e_index": 52,
+        "s_index": 70,
+        "g_index": 67
+      },
+      "marketCap": 13020000000
+    },
+    {
+      "id": 15,
+      "name": "InterContinental Hotels Group PLC",
+      "location": {
+        "region": "Europe",
+        "country": "United Kingdom",
+        "city": "Windsor",
+        "address": "1 Windsor Dials",
+        "postcode": "SL4 1RS",
+        "latitude" : 51.4826,
+        "longitude": -0.6127
+      },
+      "logo": "https://cdn.worldvectorlogo.com/logos/intercontinental-hotels-group-1.svg",
+      "description": "InterContinental Hotels Group (IHG) is a British multinational hospitality company, established in 2003. It owns and operates a diverse portfolio of well-known hotel brands, including InterContinental, Crowne Plaza, and Holiday Inn, offering a range of accommodations for business and leisure travelers worldwide.",
+      "industry": "Hotels/Resorts/Cruise lines",
+      "esg": {
+        "e_index": 64,
+        "s_index": 41,
+        "g_index": 53
+      },
+      "marketCap": 10140000000
     }
   ]
 }
