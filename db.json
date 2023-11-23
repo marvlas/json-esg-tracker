@@ -329,6 +329,116 @@
         "g_index": 53
       },
       "marketCap": 10140000000
+    },
+    {
+      "id": 16,
+      "name": "Shell plc",
+      "location": {
+        "region": "Europe",
+        "country": "United Kingdom",
+        "city": "London",
+        "address": "Belvedere Rd",
+        "postcode": "SE1 7NA",
+        "latitude" : 51.5039,
+        "longitude": -0.1169
+      },
+      "logo": "https://cdn.worldvectorlogo.com/logos/shell-4.svg",
+      "description": "Shell plc, or Royal Dutch Shell, is a major British-Dutch energy company founded in 1907. A global leader, it operates in oil and gas exploration, production, refining, and marketing. Known for innovation and sustainability, Shell plays a key role in shaping the future of the energy industry.",
+      "industry": "Oil Refining/Marketing",
+      "esg": {
+        "e_index": 18,
+        "s_index": 43,
+        "g_index": 52
+      },
+      "marketCap": 168690000000
+    },
+    {
+      "id": 17,
+      "name": "Tencent Holdings Ltd.",
+      "location": {
+        "region": "Asia",
+        "country": "China",
+        "city": "Shenzhen",
+        "address": "33 Haitian Second Road",
+        "postcode": "518054",
+        "latitude" : 22.5255,
+        "longitude": 113.9305
+      },
+      "logo": "https://cdn.worldvectorlogo.com/logos/tencent.svg",
+      "description": "Tencent Holdings is a Chinese multinational conglomerate founded in 1998, prominent in internet services, gaming (Tencent Games), and social media (WeChat). Known for its diverse portfolio, Tencent is a major player in the global technology and entertainment sectors.",
+      "industry": "Electrical Technology",
+      "esg": {
+        "e_index": 73,
+        "s_index": 45,
+        "g_index": 41
+      },
+      "marketCap": 3130000000000
+    },
+    {
+      "id": 18,
+      "name": "BYD Company",
+      "location": {
+        "region": "Asia",
+        "country": "China",
+        "city": "Shenzhen",
+        "address": "No.3009, BYD Road",
+        "postcode": "518122",
+        "latitude" : 22.6791,
+        "longitude": 114.3588
+      },
+      "logo": "https://cdn.worldvectorlogo.com/logos/byd-auto-logo.svg",
+      "description": "BYD is a Chinese multinational corporation established in 1995, known for its leadership in electric vehicles, batteries, and renewable energy solutions. The company is a key player in the global market, specializing in the production of electric cars, buses, and rechargeable batteries, contributing significantly to sustainable transportation and clean energy initiatives.",
+      "industry": "Automotive",
+      "esg": {
+        "e_index": 37,
+        "s_index": 36,
+        "g_index": 36
+      },
+      "marketCap": 669240000000
+    },
+    {
+      "id": 19,
+      "name": "Norilsk Nickel",
+      "location": {
+        "region": "Europe",
+        "country": "Russia",
+        "city": "Moscow",
+        "address": "1st Krasnogvardeysky Drive",
+        "postcode": "123100",
+        "latitude" : 55.7504,
+        "longitude": 37.5395
+      },
+      "logo": "https://cdn.worldvectorlogo.com/logos/norilsk-nickel-1.svg",
+      "description": "Norilsk Nickel, or Nornickel, is a Russian mining company founded in 1935. It is a major global producer of nickel, palladium, platinum, and copper, contributing significantly to the metals and mining industry. Nornickel is recognized for its substantial impact on the global market and commitment to sustainable resource management.",
+      "industry": "Mining",
+      "esg": {
+        "e_index": 10,
+        "s_index": 17,
+        "g_index": 8
+      },
+      "marketCap": 29410000000
+    },
+    {
+      "id": 20,
+      "name": "Singapore Telecommunications Limited",
+      "location": {
+        "region": "Asia",
+        "country": "Singapore",
+        "city": "Singapore",
+        "address": "31 Exeter Road",
+        "postcode": "239732",
+        "latitude" : 57.2712,
+        "longitude": 19.9716
+      },
+      "logo": "https://cdn.worldvectorlogo.com/logos/singtel.svg",
+      "description": "Singtel, founded in 1879, is a leading telecommunications and digital services company based in Singapore. With a strong presence in Asia, Australia, and Africa, Singtel offers a wide range of communication services, including mobile, fixed-line, broadband, and digital solutions. The company is known for its innovation and significant impact on the telecommunications landscape in the Asia-Pacific region.",
+      "industry": "Telecommunications",
+      "esg": {
+        "e_index": 61,
+        "s_index": 62,
+        "g_index": 48
+      },
+      "marketCap": 37650000000
     }
   ]
 }
